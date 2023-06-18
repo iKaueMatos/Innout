@@ -16,7 +16,6 @@ Para executar o projeto em sua máquina local, siga os passos abaixo:
 <img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=HTML5&logoColor=white" alt="tecnologia 2">
 <img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=CSS3&logoColor=white" alt="tecnologia 3">
 <img src="https://img.shields.io/badge/-tecnologia%204-007ACC?style=flat-square&logo=php&logoColor=white" alt="tecnologia 4">
-<img src="https://img.shields.io/badge/-tecnologia%205-007ACC?style=flat-square&logo=jquery&logoColor=white" alt="tecnologia 5">
 
 ## 🤝 Contribuindo com o projeto
 Se você quiser contribuir com o projeto, siga os passos abaixo:
