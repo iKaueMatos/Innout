@@ -1,6 +1,6 @@
 # Innout<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Gerenciador de tempo de almoço para uma empresa
+## Gerenciador de tempo de almoço para ser utilizado em uma empresa
 Este é o meu repositório do meu projeto no GitHub. Aqui, você encontrará informações sobre o projeto, como executá-lo em sua máquina local, as tecnologias utilizadas e como contribuir com o projeto.
 
 ## 📝 Descrição do Projeto
